@@ -1,2 +1,2 @@
-# BDS-T
+# BDS&T
 Biomedical data Standards and Terminologies
