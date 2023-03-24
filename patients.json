@@ -603,5 +603,6 @@
         "generalPractitioner": "string",
         "managingOrganization": "string",
         "link": "link(other='string')"
+        
     }
 }
